@@ -1,4 +1,4 @@
-# 🧠 MVP — Sistema de Detecção de Intrusões (UNSW-NB15)
+# 🧠 MVP — Prova 1- Sistema de Detecção de Intrusões (UNSW-NB15)
 
 ## 📘 Descrição Geral
 Este projeto foi desenvolvido como parte da **Prova 1 da disciplina SSD (Sistemas de Suporte à Decisão)**, no curso de **Engenharia de Produção – UnB**.  
