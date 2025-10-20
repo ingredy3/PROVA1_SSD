@@ -104,7 +104,7 @@ Nenhum modelo apresentou *overfitting*, e todos mantiveram resultados consistent
 **Curso:** Engenharia de Produção — UnB  
 **Disciplina:** Sistemas de Suporte à Decisão (SSD)  
 **Ano/Semestre:** 2025/2  
-**Orientador:** Prof. Andre Luiz
+
 
 
 
