@@ -104,12 +104,7 @@ Nenhum modelo apresentou *overfitting*, e todos mantiveram resultados consistent
 **Curso:** Engenharia de Produção — UnB  
 **Disciplina:** Sistemas de Suporte à Decisão (SSD)  
 **Ano/Semestre:** 2025/2  
-**Orientador:** Prof. (nome do docente)
+**Orientador:** Prof. Dr. Andre Luiz Marques Serrano
 
----
 
-## 🏁 Status do Projeto
-✅ **Concluído com sucesso** — MVP funcional, validado e aprovado conforme critérios da Prova 1 SSD.
-
----
 
